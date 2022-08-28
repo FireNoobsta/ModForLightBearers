@@ -59,6 +59,23 @@ del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\StarterM
 copy %CurrDir%\ModFiles\StarterMap_BuiltData.uexp %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
 
 
+
+del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal_Default.uexp
+copy %CurrDir%\ModFiles\Minimal_Default.uexp %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
+
+del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal_Default.umap
+copy %CurrDir%\ModFiles\Minimal_Default.umap %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
+
+del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal_Default_BuiltData.uasset
+copy %CurrDir%\ModFiles\Minimal_Default_BuiltData.uasset %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
+
+del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal_Default_BuiltData.ubulk
+copy %CurrDir%\ModFiles\Minimal_Default_BuiltData.ubulk %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
+
+del %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal_Default_BuiltData.uexp
+copy %CurrDir%\ModFiles\Minimal_Default_BuiltData.uexp %CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps
+
+
 ::Deleting pakfile and repaking
 ECHO This next part may take a while, please be patient
 del %PAKFILEPATH%

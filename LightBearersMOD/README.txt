@@ -41,6 +41,7 @@ ServerTravel <mapname>                   If you are hosting a lobby, this will l
 To access the custom maps type this into the console.
 Open Advanced_Lighting
 Open StarterMap
+Open Minimal_Default
 
 
 
