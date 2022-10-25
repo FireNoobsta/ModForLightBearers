@@ -1,13 +1,13 @@
 #-----------------------------------
 # Notes
 #-----------------------------------
-This is a mod for the current version of LightBearers as of 8/2/2022. NOT for the public beta. It also uses a windows batch script to install.
+This is a mod for the current version of LightBearers as of 10/24/2022. It also uses a windows batch script to install.
 I recommend creating a copy of your entire game directory, once installed you can launch the mod from the executable in your modded game directory,
 and still play vanilla by launching through steam.
 To install this mod you'll need two things:
 1. An installation of LightBearers (Obviously)
-2. An installation of Unreal Engine version 4.22.3
-It's important that you use this exact version since it is what LightBearers uses (for now).
+2. An installation of Unreal Engine version 4.26.2
+It's important that you use this exact version since it is what LightBearers uses.
 I can't provide a direct link for unreal engine since you have to use the Epic games laucher, but heres 
 a link to download that https://www.unrealengine.com/en-US/download.
 Once you have those you should be good to go. Also make sure you have enough room in your drive because this script will extract all of the game files
@@ -20,7 +20,7 @@ This mod is pretty bare bones though. Right now it will only unlock the dev cons
 Make sure you extracted the .zip file to a drive with 8-9 GB of available space.
 
 Locate your LightBearers pakfile. It should be called LightBearers-WindowsNoEditor.pak and it is somewhere in \LightBearers\Content\Paks.
-Locate your Unreal Engine Pak executable. It is called UnrealPak.exe and it is in your unreal engine installation, somewhere in Epic Games\UE_4.22\Engine\Binaries\Win64.
+Locate your Unreal Engine Pak executable. It is called UnrealPak.exe and it is in your unreal engine installation, somewhere in Epic Games\UE_4.26\Engine\Binaries\Win64.
 Have both of those  files ready in windows explorer.
 
 Now run the batch script called InstallMOD. This will run a number of commands in cmd prompt and will ask for input.
