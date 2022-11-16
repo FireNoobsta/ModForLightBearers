@@ -76,6 +76,17 @@ del "%CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps\Minimal
 copy "%CurrDir%\ModFiles\Minimal_Default_BuiltData.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\StarterContent\Maps"
 
 
+
+copy "%CurrDir%\ModFiles\Vir.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Vir.umap" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Vir_BuiltData.uasset" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Vir_BuiltData.ubulk" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Vir_BuiltData.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
 ::Deleting pakfile and repaking
 ECHO This next part may take a while, please be patient
 del %PAKFILEPATH%
