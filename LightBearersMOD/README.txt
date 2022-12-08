@@ -43,6 +43,7 @@ Open Advanced_Lighting			This is an experimental map that I test stuff in and ma
 Open StarterMap				This is a circular map with three floors and a central panopticon
 Open Minimal_Default			This is a large map with a central mountain and draw bridge
 Open Vir				This is a Randomizer map that will choose 8 of 16 tiles to use randomly based off the seed of the server's name.(Only looks at numbers)
+Open Blank				This is a collectathon map that keeps track of your total through the server name.
 
 
 

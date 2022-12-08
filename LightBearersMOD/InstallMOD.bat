@@ -87,6 +87,18 @@ copy "%CurrDir%\ModFiles\Vir_BuiltData.ubulk" "%CurrDir%\ModFiles\Extract\LightB
 
 copy "%CurrDir%\ModFiles\Vir_BuiltData.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
 
+
+
+copy "%CurrDir%\ModFiles\Blank.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Blank.umap" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Blank_BuiltData.uasset" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Blank_BuiltData.ubulk" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
+copy "%CurrDir%\ModFiles\Blank_BuiltData.uexp" "%CurrDir%\ModFiles\Extract\LightBearers\Content\ThirdPersonBP\Maps"
+
 ::Deleting pakfile and repaking
 ECHO This next part may take a while, please be patient
 del %PAKFILEPATH%
