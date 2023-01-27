@@ -39,7 +39,7 @@ Open <mapname>                           This will load a specified map. Look in
 ServerTravel <mapname>                   If you are hosting a lobby, this will load a specified map and take everyone in the server with you.
 
 To access the custom maps type this into the console.
-Open Advanced_Lighting			This is an experimental map that I test stuff in and make obtsacle courses
+Open Advanced_Lighting			This is an experimental map that I test stuff in and make obstacle courses
 Open StarterMap				This is a circular map with three floors and a central panopticon
 Open Minimal_Default			This is a large map with a central mountain and draw bridge
 Open Vir				This is a Randomizer map that will choose 8 of 16 tiles to use randomly based off the seed of the server's name.(Only looks at numbers)
