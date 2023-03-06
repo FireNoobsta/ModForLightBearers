@@ -1,2 +1,0 @@
-"E:\LightBearersMOD\ModFiles\Extract\Engine\*" "../../../Engine/"
-"E:\LightBearersMOD\ModFiles\Extract\LightBearers\*" "../../../LightBearers/"
