@@ -9,6 +9,7 @@ This is a mod for the current version of Light Bearers as of 10/24/2022. It uses
 Locate your Light Bearers game directory. Go to ".../Light Bearers/LightBearers/Content/Paks"
 Create a new folder called "~mods"
 Open that folder and drag "DuckMod_P.pak" into it.
+Also drag "ModBPs_P.pak" and "FactoryMap_P.pak" if you want to experiment with a new map.(It replaces desertpalace)
 Installation is complete
 
 #-----------------------------------
@@ -44,6 +45,7 @@ PumpkinMeadow
 ScreenshotStage
 Sewers
 Template
+Temple
 ThirdPersonExampleMap
 Tutorial
 Tutorial_Parkour
