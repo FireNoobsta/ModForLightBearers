@@ -8,49 +8,31 @@ This is a mod for the current version of Light Bearers as of 10/24/2022. It uses
 #----------------------------------
 Locate your Light Bearers game directory. Go to ".../Light Bearers/LightBearers/Content/Paks"
 Create a new folder called "~mods"
-Open that folder and drag "DuckMod_P.pak" into it.
-Also drag "ModBPs_P.pak" and "FactoryMap_P.pak" if you want to experiment with a new map.(It replaces desertpalace)
+Open that folder and drag all the pak files into it.
 Installation is complete
 
 #-----------------------------------
 # Accessing the mod 
 #-----------------------------------
-This "mod" adds a few maps. As said before, now you will have access to the dev console with "4" in game.
-Here are some useful commands:
-Open <mapname>                           This will load a specified map.
-ServerTravel <mapname>                   If you are hosting a lobby, this will load a specified map and take everyone in the server with you.
+This mod adds a few maps. A new button in the bottom left of the screen should appear called "Mod Menu".
+Click it to toggle the mod's menu. If you're in game you must pause first.
+From this menu you can load 6 different custom maps.
 
-To access the custom maps type this into the console.
-Open Advanced_Lighting			This is an experimental map that I test stuff in and make obstacle courses
-Open StarterMap				This is a circular map with three floors and a central panopticon
-Open Minimal_Default			This is a tropical map with an interactable drawbridge.
-Open Vir				This is a Randomizer map that will choose 8 of 16 tiles to use randomly.
-Open Blank				This is a collectathon map that keeps track of your total through the server name.
+Maps:
+Experimental			This is an experimental map that I test stuff in and make obstacle courses
+Panopticon			This is a circular map with three floors and a central panopticon
+Tropical			This is a tropical map with an interactable drawbridge.
+Randomizer			This is a Randomizer map that will choose 8 of 16 tiles to use randomly.
+Collectathon			This is a collectathon map that keeps track of your total through the server name.
+Factory				This is a factory map with conveyor belts that can adjust speed.
 
-List of all other original mapnames:
-Asylum
-BearVillage
-Castle
-Cathedral
-Cemetary
-DesertPalace
-Dungeon
-Hellfire
-Hub
-Library
-LostRealm
-Maze
-Necropolis
-PumpkinMeadow
-ScreenshotStage
-Sewers
-Template
-Temple
-ThirdPersonExampleMap
-Tutorial
-Tutorial_Parkour
-Tutorial_ShadowTraining
-Western
-Woods
-Xmas
-Yarrrbor
+There is also a "Spawn Tower Defense" button which is a WIP tower defense mode.
+The host of the server can press it while someone is picking shadow to activate it.
+Afterwards, the pool will spawn as soon as the round starts and the waves will start in 30 seconds.
+The score and wave number will appear on the tab menu where the servername used to be.
+Also the life count is displayed as the server time, (Right now you have 4 lives to begin with).
+Each wave bear bots will spawn and run towards the pool of light. Your goal is to stop them.
+You get 1 point for each tag, and you can use them to buy turrets. Type "/tur" while a game is active in the chat box to place 
+a turret where you stand. The price starts at 1 but doubles every time.
+If you have 100 or more points, you can type "/gun" in chat for a temporary power where you constantly shoot bursts of snowballs in front of yourself.
+This mode is incredibly finnicky and won't work on all maps, but still works even if the host is the only player with the mod.
