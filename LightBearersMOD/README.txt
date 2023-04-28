@@ -14,8 +14,8 @@ Installation is complete
 #-----------------------------------
 # Accessing the mod 
 #-----------------------------------
-This mod adds a few maps. A new button in the bottom left of the screen should appear called "Mod Menu".
-Click it to toggle the mod's menu. If you're in game you must pause first.
+This mod adds a few maps. Press "M" to toggle the mod menu.
+If you're in game you must pause first to interact with it.
 From this menu you can load 6 different custom maps.
 
 Maps:
