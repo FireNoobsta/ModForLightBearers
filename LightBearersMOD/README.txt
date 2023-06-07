@@ -36,3 +36,6 @@ You get 1 point for each tag, and you can use them to buy turrets. Type "/tur" w
 a turret where you stand. The price starts at 1 but doubles every time.
 If you have 100 or more points, you can type "/gun" in chat for a temporary power where you constantly shoot bursts of snowballs in front of yourself.
 This mode is incredibly finnicky and won't work on all maps, but still works even if the host is the only player with the mod.
+
+There is also a grappling hook game mode. Press the button as the host of the game and it gives everyone with the mod a grappling hook (Have to re-press every round)
+Only those with the mod can see and use it, but others will still be affected by it. You can hook walls and even other players.
